@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529658564862",
+    "project_id": "quinine-5dfdc",
+    "storage_bucket": "quinine-5dfdc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529658564862:android:fb6365d969521cdbbd95af",
+        "android_client_info": {
+          "package_name": "com.quadoxide.quinine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529658564862-6jarl5bs886uc66m36ko4mrinld92pql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quadoxide.quinine",
+            "certificate_hash": "8b62225663ba28e79c04e6a1c15b1d3c4a37d83d"
+          }
+        },
+        {
+          "client_id": "529658564862-j9rtiluo90en8s4f8fe3accb2jvq3ok9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6bpwwnWx_AMctRRATw-Q8DhXQAiPg_og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529658564862-j9rtiluo90en8s4f8fe3accb2jvq3ok9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

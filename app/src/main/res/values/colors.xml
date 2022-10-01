@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1AE65100</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#3C3C3C</color>
+    <color name="colorTextDarkPrimary">#DE000000</color>
+    <color name="colorTextDarkSecondary">#99000000</color>
+    <color name="colorTextDarkDisabled">#61000000</color>
+    <color name="colorTextLightPrimary">#FFFFFF</color>
+    <color name="colorTextLightSecondary">#99FFFFFF</color>
+    <color name="colorTextSpeech">#303030</color>
+    <color name="colorAppBar">#FFFFFF</color>
+    <color name="colorDivider">#B3EEEEEE</color>
+    <color name="colorBackground">#EEEEEE</color>
+    <color name="colorSpeechBubble">#EBFFF4</color>
+    <color name="colorSpeechButton">#2ECC71</color>
+    <color name="colorSnackBar">#535C68</color>
+    <color name="colorRippleDark">#61000000</color>
+    <color name="colorRippleLight">#1A000000</color>
+    <color name="colorSeekBarBackground">#CCFFF5F0</color>
+    <color name="colorFastScrollPopup">#CC3C3C3C</color>
+</resources>

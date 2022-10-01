@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quinine</string>
+
+    <!--Long Texts-->
+    <string name="text_login_message">I\'m, your virtual assistant 🤖\n\nI use my magic spells to diagnose the problem and find a cure.\n\nI\'m ready when you are !</string>
+
+    <!--Medium Texts-->
+    <string name="text_query_input_hint">Enter your symptoms</string>
+    <string name="text_login_google">Login with Google</string>
+    <string name="text_google_login_cancelled">Google login cancelled</string>
+    <string name="text_google_login_failed">Google login failed</string>
+
+    <!--Short Texts-->
+    <string name="text_button_diagnose">Diagnose</string>
+    <string name="text_howdy">Howdy 👋,</string>
+    <string name="text_logout">Log Out</string>
+    <string name="todo">TODO</string>
+</resources>
